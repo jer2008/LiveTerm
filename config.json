@@ -1,21 +1,17 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "LiveTerm",
-  "name": "John Doe",
-  "ascii": "liveterm",
+  "readmeUrl": "https://raw.githubusercontent.com/jer2008/jer2008/master/README.md",
+  "title": "Jerの主页",
+  "name": "Jer",
+  "ascii": "Jer website",
   "social": {
     "github": "github",
-    "linkedin": "linkedin"
+    "linkedin": "368723"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
+  "email": "jer2008@gmail.com",
+  "ps1_hostname": "Jer",
   "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
-  "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
-  },
+  "repo": "https://github.com/jer2008/LiveTerm",
+  "resume_url": "https://blog.jersite.gq/about/",
   "colors": {
     "light": {
       "background": "#FBF1C9",
